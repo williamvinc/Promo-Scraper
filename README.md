@@ -1,1 +1,3 @@
 # Promo-Scraper
+
+install requirements
