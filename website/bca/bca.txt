@@ -1,0 +1,408 @@
+[
+  {
+    "title": "Matcha Saro 108 Grand Batam Mall - Diskon 15%",
+    "url": "https://promo.bca.co.id/id/all/2025/08/08/04/Matcha-Saro-108",
+    "payment_methods": [
+      "myBCA",
+      "BCA mobile",
+      "Sakuku",
+      "Kartu Kredit",
+      "Paylater"
+    ],
+    "period": "10 Agu 2025 - 30 Nov 2025",
+    "description": "Home\nPromo BCA\nFood and Beverages\nMatcha Saro 108 Grand Batam Mall\nSyarat dan Ketentuan :\nMinimum transaksi Rp100 ribu\nMaksimum diskon Rp15 ribu\nBerlaku setiap hari Senin – Jumat\nBerlaku 1 kali transaksi/ customer /hari\nTidak berlaku kelipatan\nBerlaku pembayaran dengan QRIS di myBCA/BCA mobile/Sakuku, termasuk dengan NFC Pay & Paylater di myBCA dan Kartu Kredit BCA\nLokasi : Grand Batam Mall Lt L3-31A, Batam\nKarebosi Skylounge & Park | 316 Cafe & Lounge Makassar - Diskon 20%\nDiskon 20% Menu Makanan\nPotongan Rp50 Ribu\nDapatkan Voucher Belanja Rp25 Ribu\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Food and Beverages",
+    "id": "aa5b93253b8b6a46e7d7fd7e1d4101f0493e335d4dd7b6bfaeefd358fc4673b1",
+    "scrape_date": "2025-08-10T06:32:48.492295+00:00",
+    "bank": "BCA",
+    "index": 0
+  },
+  {
+    "title": "Muara Mart Ternate - Dapatkan Minyak Goreng 1 Liter",
+    "url": "https://promo.bca.co.id/id/all/2025/08/08/03/muara-mart-ternate",
+    "payment_methods": [
+      "myBCA",
+      "QRIS"
+    ],
+    "period": "01 Agu 2025 - 31 Okt 2025",
+    "description": "Home\nPromo BCA\nGroceries\nMuara Mart Ternate\nDapatkan Minyak Goreng 1 Liter\nSyarat & Ketentuan :\nMinimum transaksi Rp500 ribu\nBerlaku 1 kali transaksi/akun/hari\nTidak berlaku penggabungan struk\nTidak berlaku kelipatan\nBerlaku pembayaran dengan QRIS di myBCA\nLokasi :\nJl Merdeka, No.19, Kel Gamalama, Ternate\nDapatkan Minyak Goreng 1 Liter\nLigo Mitra - Dapatkan Minyak Goreng 1 Liter\nMurah Nian Palembang - Potongan Rp20 Ribu\nSangat Manis HO - Dapatkan Minyak Goreng 1 Liter\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Groceries",
+    "id": "0317eeaa6d258b417d9bc6d501dffc368d16b3b78078382325d660a04e2779a5",
+    "scrape_date": "2025-08-10T06:32:49.497869+00:00",
+    "bank": "BCA",
+    "index": 1
+  },
+  {
+    "title": "Urban Republic - Diskon Hingga Rp1 Juta",
+    "url": "https://promo.bca.co.id/id/all/2025/08/08/02/urban-republic",
+    "payment_methods": [
+      "Kartu Kredit"
+    ],
+    "period": "26 Jul 2025 - 30 Sep 2025",
+    "description": "Home\nPromo BCA\nHome Appliances & Electronic\nUrban Republic\nDiskon Hingga Rp1 Juta\nSyarat & Ketentuan :\nDiskon Rp350 ribu minimum transaksi Rp3 juta\nDiskon Rp500 ribu minimum transaksi Rp10 juta\nDiskon Rp750 ribu minimum transaksi Rp15 juta\nDiskon Rp1 juta minimum transaksi Rp20 juta\nBerlaku untuk 1 kali transaksi/kartu/ customer selama periode program\nBerlaku untuk 52 transaksi pertama selama periode program\nBerlaku dengan Cicilan BCA 0% 24 bulan dengan Kartu Kredit BCA\nTidak dapat digabungkan dengan promo lainnya\nBerlaku hanya untuk pembelian produk Apple di seluruh outlet Urban Republic\nBebas Cicilan 1 Bulan\nTelemarco Palembang - Cashback Hingga Rp1 Juta\nDiskon Rp250 Ribu\n20th Anniversary iBox - Diskon Hingga Rp2 Juta\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Home Appliances & Electronic",
+    "id": "99d8412b19722949a76f57d4cd6062dd6da78124e16606a20c2c7342cdd9547d",
+    "scrape_date": "2025-08-10T06:32:50.555263+00:00",
+    "bank": "BCA",
+    "index": 2
+  },
+  {
+    "title": "Promo myBCA - Cashback 20% Beli Tiket Nonton “Panggil Aku Ayah”",
+    "url": "https://promo.bca.co.id/id/all/2025/08/08/01/promo-mybca",
+    "payment_methods": [
+      "myBCA",
+      "QRIS"
+    ],
+    "period": "15 Agu 2025 - 31 Agu 2026",
+    "description": "Home\nPromo BCA\nEntertainment\nPromo myBCA\nCashback 20% Beli Tiket Nonton “Panggil Aku Ayah”\nSyarat & Ketentuan :\nBerlaku untuk pembelian tiket dengan minimum transaksi Rp50.000 menggunakan QRIS di myBCA maksimum 1x per akun myBCA selama periode program\nMaksimum cashback Rp10.000\nBerlaku untuk transaksi sebagai berikut:\nCGV\n1.500 trx pertama\nRp 1\nXXI\n1.500 trx pertama\nRp 2\nContoh: di CGV untuk 1.500 transaksi pertama dengan mencantumkan kode Rp1 yang ditambahkan di belakang nominal yang harus dibayarkan seperti Rp50.001 untuk pembayaran minimum Rp50.000\nCashback akan diterima maksimum 7 hari kerja setelah periode program berakhir. Penerima cashback akan menerima notifikasi dari BCA maksimum 1 hari kerja sebelum diterima\nPromo tidak dapat digabungkan dengan program promo lainnya\nDapatkan Harga Spesial & Beli 1 Dapat 2 Tiket Masuk\nPotongan Rp20 Ribu\nSonics Golf Range - Medan - Potongan Rp50 Ribu\nPotongan langsung hingga Rp150 Ribu\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Entertainment",
+    "id": "7c1e2c18b1ac4207bbcca4c3c109584da167332ad3e3a83c7d0d2227e48dfc46",
+    "scrape_date": "2025-08-10T06:32:51.587644+00:00",
+    "bank": "BCA",
+    "index": 3
+  },
+  {
+    "title": "Caterpillar - Diskon 10%",
+    "url": "https://promo.bca.co.id/id/all/2025/08/07/09/Caterpillar",
+    "payment_methods": [
+      "Kartu Kredit",
+      "Kartu Debit"
+    ],
+    "period": "01 Agu 2025 - 31 Mar 2026",
+    "description": "Home\nPromo BCA\nFashion\nCaterpillar\nSyarat dan Ketentuan :\nDiskon 10% berlaku untuk pembelanjaan untuk produk harga normal\nBerlaku untuk pembayaran dengan menggunakan QRIS (myBCA/BCA mobile/Sakuku), Paylater di myBCA, Kartu Kredit BCA dan Debit BCA\nBerlaku cicilan BCA 0% untuk tenure 3 bulan dengan minimum transaksi Rp1.000.000,- untuk pembayaran menggunakan Kartu Kredit BCA\nBerlaku di Independent Store Caterpillar\nTidak dapat digabungkan dengan promo lainnya\nYESCCI - Diskon 10%\nDiskon 10%\nAurum Lab - Potongan Harga Rp250 Ribu\nDiskon 10% di LeSportSac\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Fashion",
+    "id": "e84f86cfb2be44720244640a9bf39a3ae66a4c42afd41b22045beb8c027b0604",
+    "scrape_date": "2025-08-10T06:32:52.654386+00:00",
+    "bank": "BCA",
+    "index": 4
+  },
+  {
+    "title": "Sardana Berlian - Dapatkan potongan harga Rp100ribu",
+    "url": "https://promo.bca.co.id/id/all/2025/08/07/07/sardana-berlian",
+    "payment_methods": [
+      "myBCA",
+      "BCA mobile",
+      "QRIS",
+      "Sakuku",
+      "Kartu Kredit",
+      "Kartu Debit"
+    ],
+    "period": "01 Agu 2025 - 31 Okt 2025",
+    "description": "Home\nPromo BCA\nOthers\nSardana Berlian\nDapatkan potongan harga Rp100ribu\nSyarat & Ketentuan :\nMinimum transaksi Rp2,5 juta\nBerlaku untuk 1x transaksi servis mobil/ hari untuk 60 customer pertama selama periode program\nBerlaku hari Senin s/d Jumat\nBerlaku untuk transaksi menggunakan QRIS di myBCA/BCA mobile/Saku, Debit BCA & Kartu Kredit BCA di EDC BCA\nTidak berlaku kelipatan dan tidak dapat di gabungkan dengan promo lainnya\nBerlaku di outlet Sardana Berlian Gatot Subroto\nPerintis Perkasa - Dapatkan Potongan Harga Rp50 Ribu\nDapatkan Minyak Goreng 1 Liter\nCashback Rp20.000 untuk Transaksi di myBCA\nEkstra 1 Liter BBM\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Others",
+    "id": "0881125200c8129c6644852d0fd697ddaa31b4a8dc2a4cd2a518e9d8fd5d0611",
+    "scrape_date": "2025-08-10T06:32:53.692431+00:00",
+    "bank": "BCA",
+    "index": 5
+  },
+  {
+    "title": "Perintis Perkasa - Dapatkan Potongan Harga Rp50 ribu",
+    "url": "https://promo.bca.co.id/id/all/2025/08/07/06/Perintis-Perkasa",
+    "payment_methods": [
+      "Kartu Kredit",
+      "EDC BCA"
+    ],
+    "period": "01 Agu 2025 - 31 Okt 2025",
+    "description": "Home\nPromo BCA\nOthers\nPerintis Perkasa\nMinimum transaksi Rp1 juta\nBerlaku untuk 1x transaksi servis mobil/ hari untuk 120 customer pertama selama periode program\nBerlaku hari Senin s/d Jumat\nBerlaku untuk transaksi menggunakan Kartu Kredit BCA di EDC BCA\nTidak berlaku kelipatan dan tidak dapat di gabungkan dengan promo lainnya\nBerlaku di outlet Perintis Perkasa Adam Malik\nSardana Berlian - Dapatkan potongan harga Rp100ribu\nDapatkan Minyak Goreng 1 Liter\nEkstra 1 Liter BBM\nTop 1 - Hadiah Langsung untuk Pembelian atau Penggantian Oli Top 1 Zenzation Series di Bengkel Pilihan\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Others",
+    "id": "3da262ea8e757ba60b1eb73718eda8f284d69f8c445f75b44e107f740a87e782",
+    "scrape_date": "2025-08-10T06:32:54.740640+00:00",
+    "bank": "BCA",
+    "index": 6
+  },
+  {
+    "title": "Kick Avenue - Double Date 8.8",
+    "url": "https://promo.bca.co.id/id/all/2025/08/07/04/Kick-Avenue",
+    "payment_methods": [
+      "Kartu Kredit",
+      "Kartu Debit"
+    ],
+    "period": "01 Agu 2025 - 31 Jan 2026",
+    "description": "Home\nPromo BCA\nHealth and Beauty\nKick Avenue\nSyarat dan Ketentuan :\nDiskon 8%\nKode promo: 88BCA\nMaksimum diskon Rp200 ribu dengan minimum transaksi Rp2 juta\nBerlaku untuk 20 transaksi pertama/hari/ user selama periode promo\nBerlaku untuk transaksi dengan Debit BCA Mastercard, Kartu Kredit BCA Visa/Mastercard/JCB & Kartu BCA American Express Platinum\nBerlaku untuk pembelian di aplikasi dan/atau website Kick Avenue\nTidak dapat digabungkan dengan promo lainnya\nEVER - Penawaran Spesial\nPenawaran Spesial\nDiskon 17% + 10%\nDiskon 10%\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Health and Beauty",
+    "id": "e0def153ca2c6a3b3bb42f43261b2d009775bacbd114e13b43d5d5015b8f9396",
+    "scrape_date": "2025-08-10T06:32:55.769865+00:00",
+    "bank": "BCA",
+    "index": 7
+  },
+  {
+    "title": "Song Fa Bak Kut Teh - Dapatkan Spicy Pork Belly",
+    "url": "https://promo.bca.co.id/id/all/2025/07/29/01/Song-Fa-Bak-Kut-Teh",
+    "payment_methods": [
+      "myBCA",
+      "BCA mobile",
+      "QRIS"
+    ],
+    "period": "10 Agu 2025 - 30 Nov 2025",
+    "description": "Home\nPromo BCA\nFood and Beverages\nSong Fa Bak Kut Teh\nSyarat dan Ketentuan :\nMinimum transaksi Rp300 ribu (sebelum pajak dan service charge )\nBerlaku untuk pembayaran menggunakan QRIS di myBCA/BCA mobile\nBerlaku untuk dine in di outlet Song Fa Bak Kut Teh Mall Kelapa Gading 1\nDiskon 15%\nPotongan Rp50 Ribu\nDapatkan Voucher Belanja Rp25 Ribu\nDiskon Hingga 50%\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Food and Beverages",
+    "id": "0a1197821b6156504309eff5586d5ccf2192f658aa6122cbdc46ec642b9998ad",
+    "scrape_date": "2025-08-10T06:32:56.852718+00:00",
+    "bank": "BCA",
+    "index": 8
+  },
+  {
+    "title": "Karebosi Skylounge & Park | 316 Cafe & Lounge Makassar - Diskon 20%",
+    "url": "https://promo.bca.co.id/id/all/2025/08/07/02/skybond",
+    "payment_methods": [
+      "Kartu Kredit",
+      "Kartu Debit"
+    ],
+    "period": "10 Jul 2025 - 30 Sep 2025",
+    "description": "Home\nPromo BCA\nFood and Beverages\nKarebosi Skylounge & Park | 316 Cafe & Lounge Makassar\nDiskon 20%\nSyarat & Ketentuan :\nMinimum transaksi Rp250 ribu\nMaksimum diskon Rp200 ribu\nBerlaku untuk makanan & minuman (santap di tempat)\nBerlaku 1 kali transaksi/ customer /hari\nBerlaku setiap hari (termasuk weekend & hari libur nasional)\nBerlaku pembayaran dengan Debit BCA & Kartu Kredit BCA\nLokasi : Jl Jend M Yusuf No 1 , Makassar\nDiskon 15%\nDiskon 20% Menu Makanan\nPotongan Rp50 Ribu\nDiskon Hingga 50%\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Food and Beverages",
+    "id": "d0ebbfa141ca3c0e33aae4feb5d6b316130730a5cbc75cca0cdeca70388c3b98",
+    "scrape_date": "2025-08-10T06:32:57.923563+00:00",
+    "bank": "BCA",
+    "index": 9
+  },
+  {
+    "title": "YESCCI - Diskon 10%",
+    "url": "https://promo.bca.co.id/id/all/2025/08/07/01/yescci",
+    "payment_methods": [
+      "myBCA",
+      "BCA mobile",
+      "QRIS",
+      "Sakuku",
+      "Kartu Kredit",
+      "Kartu Debit",
+      "Paylater"
+    ],
+    "period": "01 Agu 2025 - 31 Mar 2026",
+    "description": "Home\nPromo BCA\nFashion\nYESCCI\nDiskon 10% untuk pembelian produk harga normal\nSyarat & Ketentuan :\nMinimum transaksi Rp1 Juta\nBerlaku untuk transaksi menggunakan QRIS di myBCA, BCA mobile, Sakuku termasuk Paylater di myBCA, Kartu Kredit BCA dan Debit BCA\nBerlaku setiap hari Senin - Jumat di seluruh store Yescci (Pondok Indah Mall, Lippo Mall Puri danPakuwon Mall Bekasi)\nDiskon 10%\nDiskon 10%\nAurum Lab - Potongan Harga Rp250 Ribu\nDiskon 10% di LeSportSac\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Fashion",
+    "id": "388d7867e20b09e6fe8f563459b28da05db07832c9799b5884bae49dabe90467",
+    "scrape_date": "2025-08-10T06:32:58.991118+00:00",
+    "bank": "BCA",
+    "index": 10
+  },
+  {
+    "title": "Bekkan, Ebeya, Senshu - Diskon 20% Menu Makanan",
+    "url": "https://promo.bca.co.id/id/all/2025/08/06/12/Bekkan-Ebeya-Senshu",
+    "payment_methods": [
+      "Kartu Kredit"
+    ],
+    "period": "01 Agu 2025 - 31 Jan 2026",
+    "description": "Home\nPromo BCA\nFood and Beverages\nBekkan, Ebeya, Senshu\nSyarat dan Ketentuan :\nBerlaku di Bekkan, Ebeya, Senshu ( Part of Oxalis Group )\nBerlaku dengan maksimum diskon Rp500 ribu\nBerlaku setiap hari pada pukul 11.30 – 14.30\nTidak berlaku split transaksi\nTidak berlaku kelipatan\nTidak dapat digabungkan dengan program promosi lainnya\nBerlaku Kartu Kredit BCA Card Platinum, BCA JCB/Mastercard/Visa Black, BCA Singapore Airlines, BCA Visa Corporate, BCA Mastercard World, dan Kartu BCA American Express Platinum\nLokasi\nBekkan: Plaza Senayan Arcadia Buotique Mall Ground Floor X. 105, Jakarta Selatan\nEbeya: Hotel Ritz Carlton Lantai Ground Mezzanine Floor, SCBD, Jl. Jend. Sudirman Kav. 52-53, Jakarta Selatan\nSenshu: Fairmont Jakarta, Jl. Asia Afrika No.8, Gelora, Tanah Abang, Jakarta Pusat\nDiskon 15%\nKarebosi Skylounge & Park | 316 Cafe & Lounge Makassar - Diskon 20%\nPotongan Rp50 Ribu\nDiskon Hingga 50%\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Food and Beverages",
+    "id": "9ba722a8c8730aec8faa796c7030425c93c5a88fec5c6570e4084bb82b1116d2",
+    "scrape_date": "2025-08-10T06:33:00.004171+00:00",
+    "bank": "BCA",
+    "index": 11
+  },
+  {
+    "title": "Mr Sumo - Bandar Lampung - Potongan Rp50 Ribu",
+    "url": "https://promo.bca.co.id/id/all/2025/08/06/11/Mr-Sumo",
+    "payment_methods": [
+      "myBCA",
+      "QRIS",
+      "Kartu Kredit"
+    ],
+    "period": "01 Agu 2025 - 30 Sep 2025",
+    "description": "Home\nPromo BCA\nFood and Beverages\nMr Sumo - Bandar Lampung\nSyarat dan Ketentuan :\nMinimum transaksi Rp600 ribu\nBerlaku maksimum 1x transaksi/Nasabah/hari\nBerlaku untuk 80 transaksi pertama (selama periode program)\nBerlaku di outlet Mr Sumo Bandar Lampung\nBerlaku untuk semua jenis Kartu Kredit BCA dan QRIS di myBCA\nTidak berlaku kelipatan transaksi\nTidak berlaku penggabungan struk\nDiskon 15%\nKarebosi Skylounge & Park | 316 Cafe & Lounge Makassar - Diskon 20%\nDiskon 20% Menu Makanan\nDapatkan Voucher Belanja Rp25 Ribu\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Food and Beverages",
+    "id": "64fd886bfe182072c9b609961216f624177e0d283c6f4aaacbb0b690a77bb523",
+    "scrape_date": "2025-08-10T06:33:02.845484+00:00",
+    "bank": "BCA",
+    "index": 12
+  },
+  {
+    "title": "Kaisar Swalayan - Dapatkan Minyak Goreng 1 Liter",
+    "url": "https://promo.bca.co.id/id/all/2025/08/06/10/kaisar-swalayan",
+    "payment_methods": [
+      "myBCA",
+      "BCA mobile",
+      "QRIS",
+      "Kartu Kredit",
+      "Paylater"
+    ],
+    "period": "18 Agu 2025 - 30 Sep 2025",
+    "description": "Home\nPromo BCA\nGroceries\nKaisar Swalayan\nDapatkan Minyak Goreng 1 Liter\nSyarat & Ketentuan :\nDapatkan minyak goreng 1 liter dengan minimal transaksi Rp500 ribu\nBerlaku untuk 500 transaksi pertama selama periode program\nTidak berlaku kelipatan, split transaksi, dan penggabungan transaksi\nBerlaku setiap hari Senin - Kamis selama periode program\nBerlaku 1 minyak goreng/transaksi/akun atau kartu/hari\nBerlaku untuk transaksi menggunakan QRIS di myBCA/BCA mobile, termasuk Paylater di myBCA, dan Kartu Kredit BCA\nLokasi :\nJl Patimura no 84 Pontianak\nDapatkan Minyak Goreng 1 Liter\nLigo Mitra - Dapatkan Minyak Goreng 1 Liter\nMurah Nian Palembang - Potongan Rp20 Ribu\nSangat Manis HO - Dapatkan Minyak Goreng 1 Liter\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Groceries",
+    "id": "c039e3f9d5205f3e13e6ab6e45a028ea1090ce866736bb15bba50127227df87d",
+    "scrape_date": "2025-08-10T06:33:03.849250+00:00",
+    "bank": "BCA",
+    "index": 13
+  },
+  {
+    "title": "H2O Pool & Bar Makassar - Penawaran Spesial",
+    "url": "https://promo.bca.co.id/id/all/2025/08/06/09/h2o-pool-and-bar-makassar",
+    "payment_methods": [
+      "Kartu Kredit",
+      "Kartu Debit"
+    ],
+    "period": "10 Jul 2025 - 30 Sep 2025",
+    "description": "Home\nPromo BCA\nHobby\nH2O Pool & Bar Makassar\nPenawaran Spesial\nSyarat & Ketentuan :\nDapatkan 1 tiket masuk untuk pembelian 3 tiket masuk kolam renang\nDapatkan 1 bulan membership untuk pembelian 3 bulan membership\nDapatkan 2 tiket masuk kolam renang untuk pembelian paket swimming class\nBerlaku 1 kali transaksi/ customer /hari\nTidak dapat digabungkan dengan promo lainnya\nBerlaku pembayaran dengan Debit BCA & Kartu Kredit BCA\nLokasi :\nJl Jend M Yusuf No 1 , Makassar\nPenawaran Spesial\nDiskon Rp500 Ribu Untuk Launching HUAWEI MatePad Pro 12.2”\nPet Kingdom - Diskon 20% Basic Grooming di Pet Kingdom\nArtjog - Diskon 10%\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Hobby",
+    "id": "c30c27f0c3ada72af5a8b0ebafa78207f0231d326d529960d234e60ed2dd87b7",
+    "scrape_date": "2025-08-10T06:33:04.907127+00:00",
+    "bank": "BCA",
+    "index": 14
+  },
+  {
+    "title": "Festival Kuliner Serpong - Dapatkan Voucher Belanja Rp25 Ribu",
+    "url": "https://promo.bca.co.id/id/all/2025/08/06/08/festival-kuliner-serpong",
+    "payment_methods": [
+      "myBCA",
+      "QRIS"
+    ],
+    "period": "28 Agu 2025 - 28 Sep 2025",
+    "description": "Home\nPromo BCA\nFood and Beverages\nFestival Kuliner Serpong\nDapatkan Voucher Belanja Rp25 Ribu\nSyarat & Ketentuan :\nMinimum transaksi Rp75 ribu dengan bayar pakai QRIS di myBCA di seluruh tenant yang berpartisipasi\nMaksimum penggabungan 2 struk dengan produk pembayaran dan identitas nasabah yang sama\nPenukaran voucher belanja dilakukan di booth BCA di area Festival Kuliner Serpong dengan menunjukkan struk belanja dan struk EDC BCA\nBerlaku untuk 50 redeem pertama di weekday (Senin – Kamis)\nBerlaku untuk 150 redeem pertama di weekend (Jumat – Minggu)\nTidak berlaku split bill dan kelipatan\nCara Penggunaan Voucher: Berlaku untuk transaksi selanjutnya di tenant Festival Kuliner Serpong Berlaku hingga 28 September 2025\nBerlaku untuk transaksi selanjutnya di tenant Festival Kuliner Serpong\nBerlaku hingga 28 September 2025\nDiskon 15%\nPotongan Rp50 Ribu\nDiskon Hingga 50%\nDiskon 15%\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Food and Beverages",
+    "id": "1e4f7ab39ff5a23404c78df1b1988744bf7380e77ac605a299aae73a1367354d",
+    "scrape_date": "2025-08-10T06:33:05.967529+00:00",
+    "bank": "BCA",
+    "index": 15
+  },
+  {
+    "title": "Willow Baby Expo Surabaya - Penawaran Spesial",
+    "url": "https://promo.bca.co.id/id/all/2025/08/06/07/willow-baby-expo-surabaya",
+    "payment_methods": [
+      "myBCA",
+      "BCA mobile",
+      "QRIS",
+      "Sakuku",
+      "Kartu Kredit",
+      "Paylater",
+      "NFC Pay"
+    ],
+    "period": "04 Sep 2025 - 07 Sep 2025",
+    "description": "Home\nPromo BCA\nHobby\nWillow Baby Expo Surabaya\nPenawaran Spesial\nSyarat & Ketentuan :\nCicilan BCA\nNikmati Cicilan BCA 0% tenor hingga 12 bulan\nMinimum transaksi Rp500 ribu\nVoucher Belanja Rp50 Ribu\nMinimum transaksi Rp1.5 juta\nBerlaku untuk 200 penukaran pertama/hari\nTidak berlaku kelipatan\nBerlaku untuk transaksi menggunakan QRIS di myBCA/BCA mobile/Sakuku, dan Kartu Kredit BCA\nVoucher Belanja Rp100 Ribu\nMinimum transaksi Rp500 ribu\nBerlaku untuk 25 penukaran pertama/hari\nTidak berlaku kelipatan\nBerlaku untuk transaksi menggunakan NFC Pay & Paylater di myBCA\nLokasi :\nExhibition Hall Grand City Surabaya Jl. Walikota Mustajab No. 1, Surabaya\nPenawaran Spesial\nCashback Rp650 Ribu\nDiskon Rp500 Ribu Untuk Launching HUAWEI MatePad Pro 12.2”\nPet Kingdom - Diskon 20% Basic Grooming di Pet Kingdom\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Hobby",
+    "id": "dfe98a9f6bdb4e03939e9e8f9f5d664326a3d2e823c87a26b4bde3d7b2060e7a",
+    "scrape_date": "2025-08-10T06:33:07.030399+00:00",
+    "bank": "BCA",
+    "index": 16
+  },
+  {
+    "title": "Ara Beauty Ternate - Potongan Rp10 Ribu",
+    "url": "https://promo.bca.co.id/id/all/2025/08/06/06/Ara-Beauty-Ternate",
+    "payment_methods": [
+      "myBCA",
+      "QRIS"
+    ],
+    "period": "01 Agu 2025 - 31 Okt 2025",
+    "description": "Home\nPromo BCA\nHealth and Beauty\nAra Beauty Ternate\nSyarat dan Ketentuan :\nMinimum transaksi Rp150 ribu\nBerlaku 1 kali transaksi/akun/hari\nTidak berlaku penggabungan struk\nTidak berlaku kelipatan\nBerlaku pembayaran dengan QRIS di myBCA\nLokasi :\nLINGK FALAJAWA 1 KEL MUNAJIRIN, Ternate\nDiskon 17% + 10%\nDiskon 10%\nPromo Kemerdekaan RI\nDiskon 10%\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Health and Beauty",
+    "id": "cb942d0afa7ee8b3288432f493cc2af44cfa2ecc462e5318d3514e4a44bd23fa",
+    "scrape_date": "2025-08-10T06:33:08.167328+00:00",
+    "bank": "BCA",
+    "index": 17
+  },
+  {
+    "title": "iBox - Bebas Cicilan 1 Bulan",
+    "url": "https://promo.bca.co.id/id/all/2025/08/06/05/iBox",
+    "payment_methods": [
+      "Kartu Kredit"
+    ],
+    "period": "26 Jul 2025 - 30 Sep 2025",
+    "description": "Home\nPromo BCA\nHome Appliances & Electronic\niBox\nSyarat dan Ketentuan :\nPeriode I : 26 - 31 Juli 2025 Periode II : 25 - 31 Agustus 2025 Periode III : 25 - 30 September 2025\nBerlaku untuk Cicilan BCA 0% 24 bulan\nBerlaku untuk produk iPhone 13 128 GB\nBerlaku untuk 350 transaksi pertama selama periode program\nBerlaku untuk pembelian di store iBox\nDiskon Hingga Rp1 Juta\nTelemarco Palembang - Cashback Hingga Rp1 Juta\nDiskon Rp250 Ribu\n20th Anniversary iBox - Diskon Hingga Rp2 Juta\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Home Appliances & Electronic",
+    "id": "c4fcdf97aee85559e7c542d97d0e23b65e499d3372acd602aa848fa9eb6c6045",
+    "scrape_date": "2025-08-10T06:33:09.191853+00:00",
+    "bank": "BCA",
+    "index": 18
+  },
+  {
+    "title": "Erajaya Group - Cashback Rp650 Ribu",
+    "url": "https://promo.bca.co.id/id/all/2025/08/06/04/Erajaya-Group",
+    "payment_methods": [
+      "myBCA",
+      "Paylater"
+    ],
+    "period": "25 Jul 2025 - 15 Agu 2025",
+    "description": "Home\nPromo BCA\nHobby\nErajaya Group\nSyarat dan Ketentuan :\nBerlaku minimum transaksi Rp3 Juta\nBerlaku untuk di outlet Erajaya Group sebagai berikut\nOutlet\nJumlah Transaksi Promo\nerafone\n100 transaksi pertama/bulan\niBox\n50 transaksi pertama/bulan\nSamsung by erafone\n20 transaksi pertama/bulan\nBerlaku khusus untuk transaksi menggunakan paylater di myBCA dengan tenor 3,6, dan 12 bulan\nBerlaku untuk 1 akun/transaksi/bulan\nBerlaku bunga spesial paylater BCA: Cicilan bunga 0% untuk tenor 1 bulan Cicilan bunga 0,75% untuk tenor 3 bulan Cicilan bunga 1,49% untuk tenor 6 dan 12 bulan\nCicilan bunga 0% untuk tenor 1 bulan\nCicilan bunga 0,75% untuk tenor 3 bulan\nCicilan bunga 1,49% untuk tenor 6 dan 12 bulan\nBerlaku di seluruh store erafone, Samsung by erafone dan iBox\nPenawaran Spesial\nPet Kingdom - Diskon 20% Basic Grooming di Pet Kingdom\nCashback Rp650 Ribu\nArtjog - Diskon 10%\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Hobby",
+    "id": "24e3dd40361aca8ac5cb1168ce1d67cad4911cd9cb6964579938964422241725",
+    "scrape_date": "2025-08-10T06:33:10.247660+00:00",
+    "bank": "BCA",
+    "index": 19
+  },
+  {
+    "title": "Boga Group - Dapatkan Cashback 30% dengan Reward BCA",
+    "url": "https://promo.bca.co.id/id/all/2025/08/06/03/Boga-Group",
+    "payment_methods": [
+      "Reward BCA"
+    ],
+    "period": "30 Sep 2025",
+    "description": "Home\nPromo BCA\nFood and Beverages\nBoga Group\nSyarat dan Ketentuan :\nDapatkan cashback 30% dengan transaksi menggunakan Reward BCA minimum Rp200 ribu\nMaksimum cashback Rp300 ribu/kartu/bulan\nBerlaku setiap hari selama periode program\nCashback akan mengurangi tagihan billing kartu kredit maksimum 2 bulan setelah transaksi\nBerlaku setiap hari di seluruh outlet Boga Group (Bakerzin, Ebiga, Kimukatsu, LeTen by Paradise Dynasty, LoafBun, Ocean8, Ocean11, Paradise Dynasty, Pepper Lunch, Putu Made, Shaburi & Kintan Buffet, dan Yakiniku Like)\nBerlaku untuk semua Kartu Kredit BCA berlogo BCA Card (BCA Everyday Card, BCA Card Platinum, BCA JCB Black, BCA UnionPay) dan BCA Mastercard World\nKimukatsu – Penawaran Spesial\nYakiniku Like – Dapatkan Cashback 30% dengan Reward BCA\nShaburi & Kintan Buffet - Penawaran Spesial\nPepper Lunch - Dapatkan Cashback 30% dengan Reward BCA\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Food and Beverages",
+    "id": "31d5db5d6ed0949c71700b6e546a4e2e7b28349c2cd97f3113c7cf2272a7b920",
+    "scrape_date": "2025-08-10T06:33:11.299097+00:00",
+    "bank": "BCA",
+    "index": 20
+  },
+  {
+    "title": "Popolamama - Diskon Hingga 50%",
+    "url": "https://promo.bca.co.id/id/all/2025/08/06/02/Popolamama",
+    "payment_methods": [
+      "myBCA",
+      "BCA mobile",
+      "QRIS",
+      "Sakuku",
+      "Kartu Kredit",
+      "Kartu Debit"
+    ],
+    "period": "01 Agu 2025 - 31 Jul 2026",
+    "description": "Home\nPromo BCA\nFood and Beverages\nPopolamama\nSyarat dan Ketentuan :\nDiskon 50% Berlaku setiap hari Senin Maksimum pembelian 2 makanan apa saja dan minuman\nBerlaku setiap hari Senin\nMaksimum pembelian 2 makanan apa saja dan minuman\nDiskon 15% Maksimum diskon Rp750 ribu Senin – Jumat: minimum transaksi Rp300 ribu Sabtu – Minggu: minimum transaksi Rp400 ribu\nMaksimum diskon Rp750 ribu\nSenin – Jumat: minimum transaksi Rp300 ribu\nSabtu – Minggu: minimum transaksi Rp400 ribu\nMinimum transaksi sebelum pajak dan servis\nBerlaku untuk transaksi dengan QRIS di myBCA/BCA mobile/Sakuku, Debit BCA dan Kartu Kredit BCA\nTidak dapat digabung dengan promo lain & split bill\nTidak berlaku di hari libur nasional dan tanggal merah\nBerlaku di seluruh outlet Popolamama\nDiskon 15%\nKarebosi Skylounge & Park | 316 Cafe & Lounge Makassar - Diskon 20%\nDiskon 20% Menu Makanan\nPotongan Rp50 Ribu\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Food and Beverages",
+    "id": "84cb561bc832946e1df32472a45dea9af84b7ab947034bbfe0010715c32d136a",
+    "scrape_date": "2025-08-10T06:33:12.428820+00:00",
+    "bank": "BCA",
+    "index": 21
+  },
+  {
+    "title": "Golden Pasar Swalayan Manado - Dapatkan Minyak Goreng 1 Liter",
+    "url": "https://promo.bca.co.id/id/all/2025/08/06/01/golden-pasar-swalayan-manado",
+    "payment_methods": [
+      "myBCA",
+      "QRIS",
+      "Kartu Kredit"
+    ],
+    "period": "01 Agu 2025 - 31 Okt 2025",
+    "description": "Home\nPromo BCA\nOthers\nGolden Pasar Swalayan Manado\nDapatkan Minyak Goreng 1 Liter\nSyarat & Ketentuan :\nMinimum transaksi Rp500 ribu\nBerlaku 1 kali transaksi/pemegang kartu atau akun/hari\nTidak berlaku penggabungan struk\nTidak berlaku kelipatan\nBerlaku pembayaran dengan QRIS di myBCA & Kartu Kredit BCA\nLokasi :\nSAM RATULANGI BLK.D1-8 MANADO BULEVARD CTR, Manado\nSardana Berlian - Dapatkan potongan harga Rp100ribu\nPerintis Perkasa - Dapatkan Potongan Harga Rp50 Ribu\nCashback Rp20.000 untuk Transaksi di myBCA\nEkstra 1 Liter BBM\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Others",
+    "id": "415ed0e192de7f2280998824d6f0bd982b9ca78bc221b6738851f189d3d6e107",
+    "scrape_date": "2025-08-10T06:33:13.492805+00:00",
+    "bank": "BCA",
+    "index": 22
+  },
+  {
+    "title": "Ligo Mitra - Dapatkan Minyak Goreng 1 Liter",
+    "url": "https://promo.bca.co.id/id/all/2025/08/05/07/Ligo-Mitra",
+    "payment_methods": [
+      "myBCA",
+      "BCA mobile",
+      "QRIS",
+      "Kartu Kredit",
+      "Paylater"
+    ],
+    "period": "18 Agu 2025 - 30 Sep 2025",
+    "description": "Home\nPromo BCA\nGroceries\nLigo Mitra\nDapatkan minyak goreng 1 liter dengan minimal transaksi Rp500 ribu\nBerlaku untuk 500 transaksi pertama selama periode program\nTidak berlaku kelipatan, split transaksi, dan penggabungan transaksi\nBerlaku setiap hari Senin - Kamis selama periode program\nBerlaku 1 minyak goreng/transaksi/akun atau kartu/hari\nBerlaku untuk transaksi menggunakan QRIS di myBCA/BCA mobile, termasuk Paylater di myBCA, dan Kartu Kredit BCA\nLokasi: Jl Gajah Mada no 77 Pontianak\nDapatkan Minyak Goreng 1 Liter\nDapatkan Minyak Goreng 1 Liter\nMurah Nian Palembang - Potongan Rp20 Ribu\nSangat Manis HO - Dapatkan Minyak Goreng 1 Liter\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Groceries",
+    "id": "1c1f6633a27dc1a7a2a9e912e4657698893d333c386e32e25e929ce65c02812e",
+    "scrape_date": "2025-08-10T06:33:14.552996+00:00",
+    "bank": "BCA",
+    "index": 23
+  },
+  {
+    "title": "Hush Puppies - Diskon 10%",
+    "url": "https://promo.bca.co.id/id/all/2025/08/05/06/Hush-Puppies",
+    "payment_methods": [
+      "myBCA",
+      "BCA mobile",
+      "QRIS",
+      "Sakuku",
+      "Kartu Kredit",
+      "Kartu Debit",
+      "Paylater"
+    ],
+    "period": "01 Agu 2025 - 31 Mar 2026",
+    "description": "Home\nPromo BCA\nFashion\nHush Puppies\nSyarat dan Ketentuan :\nBerlaku untuk pembelanjaan untuk produk harga normal\nBerlaku untuk pembayaran dengan menggunakan QRIS di myBCA, BCA mobile, Sakuku, termasuk Paylater di myBCA, Kartu Kredit BCA dan Debit BCA\nBerlaku cicilan BCA 0% untuk tenure 3 bulan dengan minimum transaksi Rp1.000.000 untuk pembayaran menggunakan Kartu Kredit BCA\nBerlaku di Independent Store Hush Puppies\nTidak dapat digabungkan dengan promo lainnya\nDiskon 10%\nYESCCI - Diskon 10%\nAurum Lab - Potongan Harga Rp250 Ribu\nDiskon 10% di LeSportSac\nKantor Pusat\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nHubungi Kami\nMedia Sosial\nMenara BCA, Grand Indonesia Jl. MH Thamrin No. 1 Jakarta 10310\nBCA berizin dan diawasi oleh Otoritas Jasa Keuangan & Bank Indonesia\nBCA merupakan peserta penjaminan LPS.Maksimum nilai simpanan yang dijamin LPS per Nasabah per Bank adalah Rp2 miliar. Untuk cek Tingkat Bunga Penjaminan LPS, klik di sini\nSBDK\nKebijakan Privasi\nSyarat dan Ketentuan\nFood and Beverages\nHobby\nEntertainment\nHealth and Beauty\nTravel and Leisure\nTelco\nE-commerce\nHome Appliances & Electronic\nGroceries\nReward BCA\nOthers",
+    "category": "Fashion",
+    "id": "f85b52a5af57aa496c453973763e82b53e1ccfd5eaba8ce45a3e5236f670f1a1",
+    "scrape_date": "2025-08-10T06:33:17.283274+00:00",
+    "bank": "BCA",
+    "index": 24
+  },
+]
